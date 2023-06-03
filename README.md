@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halleywood&label=Profile%20views&color=0e75b6&style=flat" alt="halleywood" /> </p>
 
-- 🌱 I’m currently learning **Java and Angular**
+- 🌱 I’m currently learning: **Java and Angular**
 
-- 📫 How to reach me **KelseyGHalley@gmail.com**
+- 📫 How to reach me: **KelseyGHalley@gmail.com**
 
-- ⚡ Fun fact **I have a new passion for raising chickens, ask me about them!**
+- ⚡ Fun fact: **I have a new passion for raising chickens, ask me about them!**
 
 <p align="left">
 </p>
