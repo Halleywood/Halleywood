@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halleywood&show_icons=true&locale=en&layout=compact" alt="halleywood" />
 </p>
 
