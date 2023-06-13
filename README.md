@@ -8,11 +8,6 @@
 - ⚡ Fun fact: **I have a new passion for raising chickens, ask me about them!**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <!-- Add more icons for the languages and tools you use -->
-
-</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halleywood&show_icons=true&locale=en&layout=compact" alt="halleywood" />
